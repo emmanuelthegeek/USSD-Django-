@@ -1,0 +1,1 @@
+This is a USSD application developed in Django, with the Africaistalking API.
